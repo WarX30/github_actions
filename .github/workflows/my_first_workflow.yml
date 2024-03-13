@@ -11,7 +11,7 @@ jobs:
 <<<<<<< HEAD
         run: echo "Hello world"
 =======
-        run: echoo "Hello world"
+        run: echo "Hello world"
 >>>>>>> 3c379f4cdadfd26f62d9e5697c829ed1f05bffb5
       - name: multiline script
         run: |
